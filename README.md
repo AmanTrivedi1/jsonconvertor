@@ -29,3 +29,4 @@ It will respond with like
     "name":"Aman"
    }
 ```  
+In the whole README, if there are spelling mistakes, don't judge me. Thank you!
